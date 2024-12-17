@@ -10,4 +10,4 @@ Delve into foundational concepts through concise textual explanations and exampl
 
 ### ⏯️Execution
 `node <path to test file>`
-> If using Windows, execute on Git Bash.
+> If using Windows, set IDE terminal to Git Bash and execute.
